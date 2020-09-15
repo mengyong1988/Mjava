@@ -1,5 +1,5 @@
 public class Mtest {
     public static void main(String[] args) {
-        System.out.printf("");
+        System.out.printf("哈哈");
     }
 }
